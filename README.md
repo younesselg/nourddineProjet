@@ -1,6 +1,7 @@
 # 🌲🔥 ForestGuard : IA & IoT pour la Protection des Forêts
 
-![ForestGuard Banner](https://via.placeholder.com/1200x400?text=ForestGuard+Surveillance+Intelligente+des+For%C3%AAts)
+![Protection des Forêts](https://scx2.b-cdn.net/gfx/news/2021/protectingan.jpg)
+
 
 ## 📌 Description du Projet
 **ForestGuard** est un **système intelligent et connecté** conçu pour :
