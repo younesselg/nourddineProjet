@@ -49,8 +49,8 @@ L’objectif final est de **réduire les pertes environnementales**, préserver 
 ### 📌 Étapes
 1. **Cloner le repository**
 ```bash
-git clone https://github.com/nom_du_repository.git
-cd nom_du_repository
+git clone[ https://github.com/nom_du_repository.git](https://github.com/Ibenammou/ForestGuard.git)
+cd ForestGuard
 ```
 2. **Installer les dépendances**
 3. **Flasher le code sur ESP32**
