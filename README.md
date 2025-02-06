@@ -55,13 +55,12 @@ cd ForestGuard
 ---
 
 ## 👥 Équipe du Projet
-| Nom | Rôle |
-|-----|------|
-| **Ibtissame Abdoussi** | Développement & Intégration IoT |
-| **Imane Benammou** | Gestion du projet & IA |
-| **Hajar Jaaouani** | Communication & alertes |
-| **Hajar Nasri** | Conception de la maquette |
-| **Nourddine Saadaoui** | Analyse des données & optimisation |
+
+| **Ibtissame Abdoussi** 
+| **Imane Benammou** 
+| **Hajar Jaaouani** 
+| **Hajar Nasri** 
+| **Nourddine Saadaoui** 
 
 ---
 
