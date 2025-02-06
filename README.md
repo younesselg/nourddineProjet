@@ -16,18 +16,11 @@ En intégrant des **capteurs IoT** et de **l’intelligence artificielle (IA)**,
 ---
 
 ## 🔥 Fonctionnalités Clés
-### 1️⃣ Détection avancée & Prévision des incendies
-📡 Surveillance des **températures et humidité**
-🎥 Analyse des **comportements anormaux de la faune**
-🔥 Estimation des **risques d’incendie en temps réel**
-
-### 2️⃣ Cartographie interactive
-🗺️ Génération de **cartes dynamiques** des zones à risque
-📍 Intégration des **données GPS & IA** pour une gestion optimisée
-
-### 3️⃣ Alertes intelligentes
-📲 **Notifications immédiates** via SMS, App mobile ou e-mail
-🚨 **Buzzer d’urgence** pour les alertes critiques
+| Fonctionnalité | Description |
+|---------------|------------|
+| **Détection avancée & Prévision des incendies** | Surveillance des **températures et humidité**, analyse des **comportements anormaux de la faune**, estimation des **risques d’incendie en temps réel** 🔥 |
+| **Cartographie interactive** | Génération de **cartes dynamiques** des zones à risque, intégration des **données GPS & IA** pour une gestion optimisée 📍 |
+| **Alertes intelligentes** | Notifications immédiates **(SMS, App mobile, e-mail)** et **Buzzer d’urgence** pour les alertes critiques 🚨 |
 
 ---
 
@@ -52,8 +45,8 @@ En intégrant des **capteurs IoT** et de **l’intelligence artificielle (IA)**,
 
 ### 📌 Étapes d’Installation
 ```bash
-git clone https://github.com/nom_du_repository.git
-cd nom_du_repository
+git clone https://github.com/Ibenammou/ForestGuard.git
+cd ForestGuard
 ```
 1. **Installer les dépendances**
 2. **Flasher le code sur ESP32**
@@ -62,20 +55,23 @@ cd nom_du_repository
 ---
 
 ## 👥 Équipe du Projet
-👩‍💻 **Ibtissame Abdoussi**  
-👩‍💻 **Imane Benammou**  
-👩‍💻 **Hajar Jaaouani**  
-👩‍💻 **Hajar Nasri**  
-👨‍💻 **Nourddine Saadaoui**  
+| Nom | Rôle |
+|-----|------|
+| **Ibtissame Abdoussi** | Développement & Intégration IoT |
+| **Imane Benammou** | Gestion du projet & IA |
+| **Hajar Jaaouani** | Communication & alertes |
+| **Hajar Nasri** | Conception de la maquette |
+| **Nourddine Saadaoui** | Analyse des données & optimisation |
 
 ---
 
-## 📌 Répartition des tâches
-Le projet est réparti en plusieurs domaines incluant :
-- Développement de la **solution IoT** 🖥️
-- Intégration de **l’IA et analyse de données** 🤖
-- Mise en place de **la communication et des alertes** 📡
-- Conception et fabrication de **la maquette** 🏗️
-- **Documentation et gestion du projet** 📑
+## 📌 Répartition des Tâches
+| Domaine | Tâches |
+|---------|--------|
+| **Développement IoT** | Intégration des capteurs, communication avec ESP32, transmission des données |
+| **Intelligence Artificielle** | Traitement des données, détection d’anomalies, prévision des incendies |
+| **Système d’alertes** | Envoi de notifications, gestion des alertes en temps réel |
+| **Conception de la maquette** | Construction physique du système, intégration des composants |
+| **Documentation & Gestion** | Rédaction du README, gestion du projet, organisation des livrables |
 
 📢 *Ce projet vise à révolutionner la protection des forêts grâce aux technologies intelligentes.* 🌍🌱
