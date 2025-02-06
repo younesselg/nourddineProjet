@@ -56,11 +56,11 @@ cd ForestGuard
 
 ## 👥 Équipe du Projet
 
-| **Ibtissame Abdoussi** 
-| **Imane Benammou** 
-| **Hajar Jaaouani** 
-| **Hajar Nasri** 
-| **Nourddine Saadaoui** 
+ **Ibtissame Abdoussi** 
+ **Imane Benammou** 
+ **Hajar Jaaouani** 
+ **Hajar Nasri** 
+ **Nourddine Saadaoui** 
 
 ---
 
