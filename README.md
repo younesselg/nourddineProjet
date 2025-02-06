@@ -4,20 +4,20 @@
 
 ## 📌 Description du Projet
 **ForestGuard** est un **système intelligent et connecté** conçu pour :
-- Surveiller la santé des forêts
-- Détecter les **risques d’incendie** et les activités illégales
-- Protéger la **biodiversité** et les ressources forestières
+✅ Surveiller la santé des forêts
+✅ Détecter les **risques d’incendie** et activités illégales
+✅ Protéger la **biodiversité** et les ressources forestières
 
-Grâce à l'intégration de **capteurs IoT** et de **l’intelligence artificielle (IA)**, ce système collecte et analyse en temps réel les données environnementales afin de :
+En intégrant des **capteurs IoT** et de **l’intelligence artificielle (IA)**, ce système collecte et analyse en temps réel des données environnementales pour :
 - **Générer des alertes précoces** 🚨
 - **Optimiser la gestion forestière** 🌍
-- **Faciliter la prise de décision proactive** 📊
+- **Faciliter une prise de décision proactive** 📊
 
 ---
 
 ## 🔥 Fonctionnalités Clés
 | Fonctionnalité | Description |
-|----------------|-------------|
+|---------------|------------|
 | **Détection avancée & Prévision des incendies** | Surveillance des **températures et humidité**, analyse des **comportements anormaux de la faune**, estimation des **risques d’incendie en temps réel** 🔥 |
 | **Cartographie interactive** | Génération de **cartes dynamiques** des zones à risque, intégration des **données GPS & IA** pour une gestion optimisée 📍 |
 | **Alertes intelligentes** | Notifications immédiates **(SMS, App mobile, e-mail)** et **Buzzer d’urgence** pour les alertes critiques 🚨 |
@@ -26,7 +26,7 @@ Grâce à l'intégration de **capteurs IoT** et de **l’intelligence artificiel
 
 ## 🛠️ Matériel Utilisé
 | Composant | Utilisation |
-|-----------|-------------|
+|-----------|------------|
 | **ESP32** | Microcontrôleur IoT |
 | **DHT22** | Capteur de température & humidité |
 | **Capteur d’humidité du sol** | Surveillance des sols |
@@ -39,7 +39,6 @@ Grâce à l'intégration de **capteurs IoT** et de **l’intelligence artificiel
 ---
 
 ## 🚀 Installation & Déploiement
-
 ### 📥 Prérequis
 - **Arduino IDE**
 - Bibliothèques pour **ESP32, DHT22, GPS** et autres capteurs
@@ -48,3 +47,29 @@ Grâce à l'intégration de **capteurs IoT** et de **l’intelligence artificiel
 ```bash
 git clone https://github.com/Ibenammou/ForestGuard.git
 cd ForestGuard
+```
+1. **Installer les dépendances**
+2. **Flasher le code sur ESP32**
+3. **Déployer et tester les capteurs**
+
+---
+## 👥 Équipe du Projet
+| Nom                |
+|--------------------|
+| **Ibtissame Abdoussi** |
+| **Imane Benammou**     |
+| **Hajar Jaaouani**     |
+| **Hajar Nasri**        |
+| **Nourddine Saadaoui** |
+
+---
+## 📌 Répartition des Tâches
+| Domaine | Tâches |
+|---------|--------|
+| **Développement IoT** | Intégration des capteurs, communication avec ESP32, transmission des données |
+| **Intelligence Artificielle** | Traitement des données, détection d’anomalies, prévision des incendies |
+| **Système d’alertes** | Envoi de notifications, gestion des alertes en temps réel |
+| **Conception de la maquette** | Construction physique du système, intégration des composants |
+| **Documentation & Gestion** | Rédaction du README, gestion du projet, organisation des livrables |
+
+📢 *Ce projet vise à révolutionner la protection des forêts grâce aux technologies intelligentes.* 🌍🌱
