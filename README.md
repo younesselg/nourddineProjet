@@ -1,67 +1,81 @@
-# 🌍 ForestGuard : Surveillance Intelligente des Forêts
+# 🌲🔥 ForestGuard : IA & IoT pour la Protection des Forêts
+
+![ForestGuard Banner](https://via.placeholder.com/1200x400?text=ForestGuard+Surveillance+Intelligente+des+For%C3%AAts)
 
 ## 📌 Description du Projet
-Ce projet vise à développer un **système intelligent et connecté** pour surveiller la santé des forêts, détecter les risques d’incendie, repérer les activités humaines illégales et protéger la biodiversité. 
+**ForestGuard** est un **système intelligent et connecté** conçu pour :
+✅ Surveiller la santé des forêts
+✅ Détecter les **risques d’incendie** et activités illégales
+✅ Protéger la **biodiversité** et les ressources forestières
 
-En utilisant des **capteurs IoT** et **l’intelligence artificielle (IA)**, le système collecte et analyse des données environnementales en temps réel pour :
-- Générer des **alertes précoces**
-- Optimiser la **gestion des ressources forestières**
-- Assurer une **prise de décision proactive**
-
-L’objectif final est de **réduire les pertes environnementales**, préserver les écosystèmes et renforcer la **sécurité des forêts**.
+En intégrant des **capteurs IoT** et de **l’intelligence artificielle (IA)**, ce système collecte et analyse en temps réel des données environnementales pour :
+- **Générer des alertes précoces** 🚨
+- **Optimiser la gestion forestière** 🌍
+- **Faciliter une prise de décision proactive** 📊
 
 ---
 
-## 🔥 Fonctionnalités du Système
-### 1️⃣ Détection avancée des anomalies & Prévision des incendies
-- Surveillance des **températures anormales** et de l’**humidité**
-- Détection des **comportements inhabituels de la faune** (caméra infrarouge)
-- Analyse des données en temps réel et historiques pour évaluer le **risque d’incendie** et générer des **alertes prédictives**
+## 🔥 Fonctionnalités Clés
+### 1️⃣ Détection avancée & Prévision des incendies
+📡 Surveillance des **températures et humidité**
+🎥 Analyse des **comportements anormaux de la faune**
+🔥 Estimation des **risques d’incendie en temps réel**
 
-### 2️⃣ Cartographie intelligente
-- Génération de **cartes interactives** visualisant les **zones à risque** (incendies, déforestation, activités illégales)
-- Intégration des **données GPS** et **résultats IA** pour une gestion optimisée
+### 2️⃣ Cartographie interactive
+🗺️ Génération de **cartes dynamiques** des zones à risque
+📍 Intégration des **données GPS & IA** pour une gestion optimisée
 
-### 3️⃣ Alertes personnalisées
-- **Notifications en temps réel** via **SMS, application mobile ou e-mail**
-- **Buzzer d’urgence** pour les alertes critiques
+### 3️⃣ Alertes intelligentes
+📲 **Notifications immédiates** via SMS, App mobile ou e-mail
+🚨 **Buzzer d’urgence** pour les alertes critiques
 
 ---
 
 ## 🛠️ Matériel Utilisé
-- ESP32 (Microcontrôleur IoT)
-- DHT22 (Capteur de température et humidité)
-- Capteur d’humidité du sol
-- MQ2 (Détection de fumée et gaz)
-- Caméra infrarouge (IR)
-- Module GPS (NEO-6M)
-- Panneaux solaires
-- Batterie rechargeable
-- Buzzer
+| Composant | Utilisation |
+|-----------|------------|
+| **ESP32** | Microcontrôleur IoT |
+| **DHT22** | Capteur de température & humidité |
+| **Capteur d’humidité du sol** | Surveillance des sols |
+| **MQ2** | Détection de fumée et gaz |
+| **Caméra infrarouge (IR)** | Analyse de la faune |
+| **Module GPS (NEO-6M)** | Localisation des incidents |
+| **Panneaux solaires** | Alimentation autonome |
+| **Buzzer** | Alerte sonore |
 
 ---
 
-## 🚀 Installation et Déploiement
+## 🚀 Installation & Déploiement
 ### 📥 Prérequis
-- Arduino IDE
-- Bibliothèques ESP32, DHT22, GPS et autres capteurs
+- **Arduino IDE**
+- Bibliothèques pour **ESP32, DHT22, GPS** et autres capteurs
 
-### 📌 Étapes
-1. **Cloner le repository**
+### 📌 Étapes d’Installation
 ```bash
-git clone[ https://github.com/nom_du_repository.git](https://github.com/Ibenammou/ForestGuard.git)
-cd ForestGuard
+git clone https://github.com/nom_du_repository.git
+cd nom_du_repository
 ```
-2. **Installer les dépendances**
-3. **Flasher le code sur ESP32**
-4. **Déployer et tester les capteurs**
+1. **Installer les dépendances**
+2. **Flasher le code sur ESP32**
+3. **Déployer et tester les capteurs**
+
+---
+
+## 👥 Équipe du Projet
+👩‍💻 **Ibtissame Abdoussi**  
+👩‍💻 **Imane Benammou**  
+👩‍💻 **Hajar Jaaouani**  
+👩‍💻 **Hajar Nasri**  
+👨‍💻 **Nourddine Saadaoui**  
 
 ---
 
 ## 📌 Répartition des tâches
 Le projet est réparti en plusieurs domaines incluant :
-- Développement de la solution IoT
-- Intégration de l’IA
-- Mise en place de la communication et des alertes
-- Conception et fabrication de la maquette
-- Documentation et gestion du projet
+- Développement de la **solution IoT** 🖥️
+- Intégration de **l’IA et analyse de données** 🤖
+- Mise en place de **la communication et des alertes** 📡
+- Conception et fabrication de **la maquette** 🏗️
+- **Documentation et gestion du projet** 📑
+
+📢 *Ce projet vise à révolutionner la protection des forêts grâce aux technologies intelligentes.* 🌍🌱
