@@ -54,14 +54,15 @@ cd ForestGuard
 
 ---
 ## 👥 Équipe du Projet
-| Nom                |
-|--------------------|
-| **Ibtissame Abdoussi** |
-| **Imane Benammou**     |
-| **Hajar Jaaouani**     |
-| **Hajar Nasri**        |
-| **Nourddine Saadaoui** |
 
+Le projet **ForestGuard** est porté par une équipe passionnée et talentueuse :
+
+- **Ibtissame Abdoussi**
+- **Imane Benammou**
+- **Hajar Jaaouani**
+- **Hajar Nasri**
+- **Nourddine Saadaoui**
+        
 ---
 ## 📌 Répartition des Tâches
 | Domaine | Tâches |
