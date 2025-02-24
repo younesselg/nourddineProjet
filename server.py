@@ -3,9 +3,10 @@ from pymongo import MongoClient
 from twilio.rest import Client
 import os
 from dotenv import load_dotenv
+from flask import Flask, request, jsonify, render_template
 load_dotenv()
 
-app = Flask(name)
+app = Flask(__name__)
 
 # Connexion MongoDB
 MONGO_URI = os.getenv("MONGO_URI")
@@ -43,5 +44,6 @@ def receive_data():
 
     return jsonify({"status": "success"}), 200
 
-if name == "main":
-    app.run(host="0.0.0.0", port=5000, debug=True)
+if __name__ == "__main__":
+
+    app.run(host="0.0.0.0", port=5000, debug=True)

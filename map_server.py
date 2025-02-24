@@ -4,7 +4,7 @@ from pymongo import MongoClient
 from dotenv import load_dotenv
 load_dotenv()
 
-app = Flask(_name_)
+app = Flask(__name__)
 CORS(app)
 
 MONGO_URI = os.getenv("MONGO_URI")
@@ -17,5 +17,6 @@ def get_alerts():
     alerts = list(collection.find({}, {"_id": 0}))
     return jsonify(alerts)
 
-if _name_ == "_main_":
-    app.run(host="0.0.0.0", port=5001, debug=True)
+if __name__ == "__main__":
+
+    app.run(host="0.0.0.0", port=5001, debug=True)
